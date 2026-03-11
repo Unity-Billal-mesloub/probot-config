@@ -1,6 +1,6 @@
 # This project has been moved to Probot core
 
-This project has been merged into [Probot](https://github.com/probot/probot) itself as part of the core `context.config` helper. Any future development takes place there.
+This project has been merged into [Probot](https://github.com/Unity-Billal-mesloub/probot) itself as part of the core `context.config` helper. Any future development takes place there.
 
 # Probot: Config
 
@@ -36,8 +36,7 @@ other: CCC # standalone, does not extend other configs
 ```
 
 Configs are deeply-merged. Nested objects do not have to be redefined
-completely. This is accomplished using [deepmerge](https://github.com/KyleAMathews/deepmerge). When using probot-config in an app, you can pass [options](https://github.com/KyleAMathews/deepmerge#options) through to `deepmerge`.
-
+completely. This is accomplished using [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub). 
 You can also reference configurations from other organizations:
 
 ```yaml
@@ -150,7 +149,7 @@ They will configure your IDE to match the coding style, invoke auto formatters
 every time you save and run tests in the background for you. No need to run the
 watchers manually.
 
-[license-url]: https://github.com/getsentry/probot-config/blob/master/LICENSE
+[license-url]: https://github.com/Unity-Billal-mesloub/probot-config/blob/main/LICENSE
 [npm-url]: https://www.npmjs.com/package/probot-config
 [npm-license]: https://img.shields.io/npm/l/probot-config.svg?style=flat
 [npm-version]: https://img.shields.io/npm/v/probot-config.svg?style=flat
